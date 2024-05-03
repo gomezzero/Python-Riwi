@@ -1,0 +1,40 @@
+id supermercado
+
+nombre 
+direccion
+
+
+id pedidos 
+
+id cliente
+producto
+cantidad
+
+
+id categorias
+
+nombre categoria
+total
+
+
+id cliente
+
+nombre cliente
+direccion
+barrio
+telefono
+fecha compra
+
+
+
+id producto
+
+nombre del producto 
+precio unidad
+cantidad disponible
+
+
+
+
+
+
